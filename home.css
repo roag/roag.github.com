@@ -1,0 +1,54 @@
+	body {
+        	font-family: Tahoma, Arial;
+            	font-size: 1em;
+            	background: #CCFFCC;
+           	margin: 10px;
+            	padding:10px;
+    	}
+ 
+        	#page {
+                	margin: auto;
+                	width: 960px;
+			background: White;
+			
+            	}
+            
+			#page-inner {
+	               		padding:20px;
+	                	background: Red;
+				border: 3px Black solid;
+
+                	}
+			
+				h1{
+					font-size:90px;
+
+				}
+
+				h1.hover{
+					border-style:dotted;
+					border-width:2;
+
+				}
+
+				h2{
+					font-size:60px;
+					text-align:right;
+				}
+	
+				h3{
+					font-size:45px;
+
+				}
+
+				h4{
+
+					font-size:30px;
+					text-align:right;
+
+				}
+
+
+
+		
+		
