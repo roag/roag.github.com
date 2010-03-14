@@ -33,9 +33,12 @@
 
 				h2{
 					font-size:60px;
-					text-align:right;
 				}
-	
+	                        h2.hover{
+					border-style:dotted;
+					border-width:2;
+
+				}
 				h3{
 					font-size:45px;
 
